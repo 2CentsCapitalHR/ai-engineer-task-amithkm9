@@ -29,7 +29,7 @@ The ADGM Corporate Agent is a sophisticated AI-powered legal assistant designed 
 ### 🤖 **Artificial Intelligence Core**
 ```python
 # AI Technologies Used
-- Ollama (Local LLM Server): llama2 models
+- Ollama (Local LLM Server): llama2 model
 - Sentence Transformers: all-MiniLM-L6-v2 for embeddings
 - Cross-Encoder: ms-marco-MiniLM-L-6-v2 for re-ranking
 - ChromaDB: Vector database for persistent knowledge storage
