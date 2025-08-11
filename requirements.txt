@@ -1,0 +1,37 @@
+# Core UI Framework
+streamlit
+streamlit-extras
+
+# Document Processing
+python-docx
+pypdf2
+pdfplumber
+
+# LLM and RAG Components
+langchain
+langchain-community
+ollama
+
+# Vector Database
+chromadb
+
+# Embeddings and ML
+sentence-transformers
+torch
+transformers
+numpy
+faiss-cpu
+
+# Web Scraping and URL handling
+
+beautifulsoup4
+urllib3
+
+# Utilities
+tiktoken
+pandas
+plotly
+
+# File handling
+openpyxl
+python-magic
